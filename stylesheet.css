@@ -107,6 +107,10 @@ display: none;
 object-fit: cover;
 
 }
+.slide{
+object-fit: cover;
+
+}
 
  img.displaySlide{
 display: block;
@@ -142,6 +146,8 @@ font-size: 20px;
 font-weight: bold;
 margin-top:2%;
 border-radius: 1rem;
+letter-spacing: 2px;
+text-transform: uppercase;
 }
 
 
